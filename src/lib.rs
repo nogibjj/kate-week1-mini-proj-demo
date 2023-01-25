@@ -4,10 +4,6 @@
 If the name is "Marco", returns "Polo".
 If the name is "any other value", it returns "Marco".
 */
-pub fn marco_polo(name: &str) -> String {
-    if name == "Marco" {
-        "Polo".to_string()
-    } else {
-        "Marco".to_string()
-    }
+pub fn hello(firstname: &str, lastname: &str) -> String {
+    format!("Hello {} {}! Have a wonderful day!", firstname, lastname)
 }

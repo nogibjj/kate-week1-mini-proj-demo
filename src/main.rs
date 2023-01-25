@@ -10,17 +10,22 @@ struct Cli {
 #[derive(Parser)]
 enum Commands {
     #[clap(version = "1.0", author = "Kate Feng")]
-    Play {
+    Hello {
         #[clap(short, long)]
-        first_name: String,
+        firstname: String,
+        #[clap(short, long)]
+        lastname: String,
     },
 }
 
 fn main() {
     let args = Cli::parse();
     match args.command {
-        Some(Commands::Play { first_name }) => {
-            let result = cli::marco_polo(&first_name);
+        Some(Commands::Hello {
+            firstname,
+            lastname,
+        }) => {
+            let result = cli::hello(&firstname, &lastname);
             println!("{}", result);
         }
         None => println!("No subcommand was used"),
