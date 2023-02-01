@@ -9,6 +9,5 @@ This project is built on top of the rust-cli-template that's provided, and imple
 ## Conclusion
 This is a simple but practical example of CLI tool project. The main purpose is to get familiar with Rust and codespace.
 
-## References
 
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
