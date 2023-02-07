@@ -9,4 +9,4 @@ I followed the [youtube example](https://www.youtube.com/watch?v=Im72N3or2FE) to
 * "/version": Displays the version of cargo.
 
 ## References
-*https://www.youtube.com/watch?v=Im72N3or2FE
+* https://www.youtube.com/watch?v=Im72N3or2FE
