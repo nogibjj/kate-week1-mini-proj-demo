@@ -15,3 +15,8 @@ Cargo.lock
 week1-cli-greet/target
 week2-marco-polo-lambda/target
 week3-actix/target
+
+
+# Added by cargo
+
+/target
