@@ -1,0 +1,26 @@
+/workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/deps/pix-0429ab14cbabedc9.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/bgr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/chan.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/cmy.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/el.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/gray.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsl.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsv.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hue.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hwb.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/matte.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/model.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ops.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/palette.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/private.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/raster.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/rgb.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ycc.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/srgb_gamma.rs /workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/build/pix-0c2162ea2380b96b/out/gamma_lut.rs
+
+/workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/deps/pix-0429ab14cbabedc9.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/bgr.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/chan.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/cmy.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/el.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/gray.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsl.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsv.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hue.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hwb.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/matte.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/model.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ops.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/palette.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/private.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/raster.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/rgb.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ycc.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/srgb_gamma.rs /workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/build/pix-0c2162ea2380b96b/out/gamma_lut.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/bgr.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/chan.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/cmy.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/el.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/gray.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsl.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hsv.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hue.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/hwb.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/matte.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/model.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ops.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/palette.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/private.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/raster.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/rgb.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/ycc.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/pix-0.13.2/src/srgb_gamma.rs:
+/workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/build/pix-0c2162ea2380b96b/out/gamma_lut.rs:
+
+# env-dep:OUT_DIR=/workspaces/kate-week1-mini-proj-demo/week5-wordcloud/target/debug/build/pix-0c2162ea2380b96b/out

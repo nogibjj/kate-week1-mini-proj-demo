@@ -3,3 +3,4 @@
 * [Week2: Deploy Marco polo on AWS Lambda](week2-marco-polo-lambda) 
 * [Week3: Deploy Actix Random Fruit Microservice on AWS](week3-actix) 
 * [Week4: Guessing Game: Guess a number from 1-100](week4-guessing-game)
+* [Week5: Text Escape Game: Escape the room!](week5-text-escape-game)
