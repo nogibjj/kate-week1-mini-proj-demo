@@ -1,1 +1,0 @@
-{"rustc":7419878829587384386,"features":"","target":0,"profile":0,"path":0,"deps":[[13520211204879444551,"build_script_build",false,1400252530102752037]],"local":[{"RerunIfChanged":{"output":"debug/build/pix-0c2162ea2380b96b/output","paths":["src/srgb_gamma.rs","build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

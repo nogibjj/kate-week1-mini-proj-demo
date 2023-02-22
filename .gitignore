@@ -15,6 +15,9 @@ Cargo.lock
 week1-cli-greet/target
 week2-marco-polo-lambda/target
 week3-actix/target
+week4-guessing-game/target
+week5-text-escape-game/target
+week6-morse-code-translator/target
 
 
 # Added by cargo
