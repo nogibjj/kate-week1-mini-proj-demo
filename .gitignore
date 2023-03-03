@@ -18,6 +18,7 @@ week3-actix/target
 week4-guessing-game/target
 week5-text-escape-game/target
 week6-morse-code-translator/target
+week7-ascii-art/target
 
 
 # Added by cargo
