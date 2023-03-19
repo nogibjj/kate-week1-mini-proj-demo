@@ -19,11 +19,26 @@ week4-guessing-game/target
 week5-text-escape-game/target
 week6-morse-code-translator/target
 week7-ascii-art/target
+week8-prime-factorer/target
 
 
 # Added by cargo
 
 /target
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
+
+
+# Added by cargo
+#
+# already existing elements were commented out
+
+#/target
 
 
 # Added by cargo
