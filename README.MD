@@ -6,3 +6,4 @@
 * [Week5: Text Escape Game: Escape the room!](week5-text-escape-game)
 * [Week6: Morse Code Translator](week6-morse-code-translator)
 * [Week7: Ascii Art](week7-ascii-art)
+* [Week8: Prime Factorization](week8-prime-factorization)

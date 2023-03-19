@@ -1,5 +1,5 @@
 [package]
-name = "week8-prime-factorer"
+name = "week8-prime-factorization"
 version = "0.1.0"
 edition = "2021"
 
