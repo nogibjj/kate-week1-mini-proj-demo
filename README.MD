@@ -7,3 +7,4 @@
 * [Week6: Morse Code Translator](week6-morse-code-translator)
 * [Week7: Ascii Art](week7-ascii-art)
 * [Week8: Prime Factorization](week8-prime-factorization)
+* [Week9: Simple Chat Server](week9-simple-chat-server)
